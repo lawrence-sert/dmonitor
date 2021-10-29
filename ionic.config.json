@@ -1,0 +1,7 @@
+{
+  "name": "dmonitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
